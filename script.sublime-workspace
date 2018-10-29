@@ -1,0 +1,375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"var",
+				"valor"
+			],
+			[
+				"arr",
+				"array2"
+			],
+			[
+				"l",
+				"let"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"set",
+				"setRandom"
+			],
+			[
+				"rand",
+				"RandomColor"
+			],
+			[
+				"col",
+				"color1"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tcolor"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lstI",
+				"lstItems"
+			],
+			[
+				"crea",
+				"createTextNode"
+			],
+			[
+				"add",
+				"addListAfterKeypress"
+			],
+			[
+				"ad",
+				"addListAfterClick"
+			],
+			[
+				"cre",
+				"createListElement"
+			],
+			[
+				"in",
+				"inputLength"
+			],
+			[
+				"is",
+				"isUserValid"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ban",
+				"background-position\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"bor",
+				"border-right\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"defa",
+				"default_database"
+			],
+			[
+				"mysq",
+				"mysqli_connect"
+			],
+			[
+				"conect",
+				"connection"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/Background/script.js",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/Background/style.css",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/UdemyHt/index.html",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/UdemyHt/about.html",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/UdemyHt/indexeje.html",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/UdemyHt/style.css",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/UdemyHt/script2.js",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/UdemyHt/script1.js",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/BootstrapPage/style.css",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/BootstrapPage/index.html",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/UdemyHt/script.js",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/UdemyHt/login.html",
+		"/C/Users/marmola/Pictures/heroes/codes/fabian-grohs-423591-unsplash.jpg",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/RobotExer/style.css",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/RobotExer/index.html",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/UdemyHt/css/style.css",
+		"/C/Users/marmola/Downloads/picture-links.txt",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/UdemyHt/image/ghost.jpg",
+		"/C/Bitnami/wampstack-5.6.36-2/apache2/htdocs/web/application/config/database.php",
+		"/C/Bitnami/wampstack-5.6.36-2/apache2/htdocs/web/application/config/config.php",
+		"/C/Bitnami/wampstack-5.6.36-2/apache2/htdocs/web/application/controllers/admin/dashboard.php",
+		"/C/Bitnami/wampstack-5.6.36-2/apache2/htdocs/web/application/models/admin/admin_model.php",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/web/application/config/database.php",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/web/system/core/Config.php",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/web/application/config/config.php",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/web/application/views/welcome_message.php",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/web/application/controllers/welcome.php",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/web/system/libraries/Session.php",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/web/system/helpers/url_helper.php",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/web/system/core/Exceptions.php",
+		"/C/Bitnami/wampstack-7.1.18-1/apache2/htdocs/web/system/core/Common.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "script.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
